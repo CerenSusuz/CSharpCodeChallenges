@@ -1,0 +1,4 @@
+﻿Try and imagine an application that doesn't need users to sign up or sign in using an email. 
+By necessity, almost every app nowadays ends up asking for an email and password which means you're almost guaranteed to have to verify this kind of information in your code at some point.
+Write C# function that checks if an email passes certain validation criteria.
+The function is going to take in a string value for the email and won't return anything but you will need to output specific messages to the console for each failure case or a message for a succesfully validated email.
