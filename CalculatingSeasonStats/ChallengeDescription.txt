@@ -1,0 +1,4 @@
+﻿Imagine you and your friends have a fantasy league or something like that and what to know how your stats stack up.
+You have the raw data in terms of scores for each game but that doesn't necessarily give you the values you want. 
+In many cases, the data needs to be ordered, computed and represented in a specific way.
+Write a function that takes a list of scores and compute the lowest and highest values, as well as the sum and average of all scores.
