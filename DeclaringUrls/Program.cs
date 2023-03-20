@@ -8,10 +8,10 @@
     return components;
 }
 
-Console.WriteLine("Here you can enter the email for declaring:");
-string email = Console.ReadLine();
+Console.WriteLine("Here you can enter the url for declaring:");
+string url = Console.ReadLine();
 
-var components = BreakdownURL(email);
+var components = BreakdownURL(url);
 
 for (int i = 0; i < components.Length; i++)
 {
