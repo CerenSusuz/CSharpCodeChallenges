@@ -13,7 +13,7 @@
 
     if (!email.Contains(atSymbol))
     {
-        Console.WriteLine("\nYou have to include an 'a' character.");
+        Console.WriteLine("\nYou have to include an '@' character.");
 
         return;
     }
