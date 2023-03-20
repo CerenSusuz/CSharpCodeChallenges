@@ -1,0 +1,4 @@
+﻿Imagine you are building an app that calculates how many times a milestone in your life has happened.
+Like being promoted, adopting a pet, or even voting for president. 
+Your goal here is to write a C# function that takes in a person's age and prints out how many times they voted for president. 
+The function is going to take in an integer value and return the number of presidents they voted for as an integer value as well.
