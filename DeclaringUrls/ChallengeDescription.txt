@@ -1,0 +1,2 @@
+﻿sometimes web addresses have some unintelligible characters. 
+You write a function that breaks down a URL into its component pieces. 
