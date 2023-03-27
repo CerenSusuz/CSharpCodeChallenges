@@ -1,0 +1,14 @@
+﻿Imagine your program needs to store a pair of values.
+The most common way to do this is with a Dictionary.
+But once you add your data into that dictionary, how do you efficiently is a key exists and grab its values?
+Write a function that takes any word or sentence and assigns points based on each vowel and how many times it appears.
+
+Criteria 
+A is worth 1 points
+E is worth 2 points
+I is worth 3 points
+O is worth 4 points
+U is worth 5 points
+Y is worth 9 points
+
+GetVowelCount("Hey LinkedIn!");
