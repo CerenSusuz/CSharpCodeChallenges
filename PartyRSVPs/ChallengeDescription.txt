@@ -1,0 +1,2 @@
+﻿Write a function that combines two lists, checks for duplicates, 
+and checks the combined list against a third list for overlapping items.
