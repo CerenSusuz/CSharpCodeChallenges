@@ -1,0 +1,6 @@
+﻿Add an indexer to an existing class to access its Dictionary property.
+
+Criteria
+Throw an error when an item doesn't exist 
+or hasn't been assigned,
+or if the user tries to add a duplicate item.
