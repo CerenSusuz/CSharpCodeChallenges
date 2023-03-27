@@ -1,0 +1,4 @@
+﻿write a function that calculates and returns three diffirent tip percentages for a meal.
+Tip at 10%
+Tip at 17.5%
+Tip at 25%
