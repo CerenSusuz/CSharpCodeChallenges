@@ -1,0 +1,5 @@
+﻿Imagine you have a big data set, but you need to whittle it down by some sort of criteria.
+For example, let's say you are building a game night app that stores player information after every game or session.
+One of the main features might be tracking which players improve the most from week to week.
+But to get that info, you need to iterate through the entire data set, perform a calculation and then somehow end up with a filtered list of players that meet the requirement.
+Write a function that calculates and returns three different tip percentages for meal.
